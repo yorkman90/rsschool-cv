@@ -4,7 +4,7 @@
 4.   * Knowledge of SAP BI\BW; 
      * Knowledge of SQL, basic ABAP; 
      * Basic knowledge of HTML, CSS, JS.
-5. 
+5. -
 6. Last work IBA Gomel Park - Software engineer  
    Project: Tele2
      * Creating repository in the SAP BI/BW system;
