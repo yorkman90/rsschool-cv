@@ -12,4 +12,4 @@
      * Creating information objects, attributes, and hierarchies;
      * Introduction of basic data manually, from the  files in the SAP BW system.
 7. Gomel State University. Specialty - Economic Cybernetics
-8. B1 English skills
+8. B1  English skills
