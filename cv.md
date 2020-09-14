@@ -2,7 +2,7 @@
 2. Phone +375 33 3888899
 3. During the development process, I show perseverance and discipline. I always try to complete tasks within the stated deadlines. Ready to adhere to the rules (style) of development in the company or team
 4.   * Knowledge of SAP BI\BW; 
-     * Knowledge of SQL, basic ABAP;
+     * Knowledge of SQL, basic ABAP; 
      * Basic knowledge of HTML, CSS, JS.
 5. 
 6. Last work IBA Gomel Park - Software engineer  
