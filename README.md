@@ -1,2 +1,2 @@
 # rsschool-cv 
-<a href=https://yorkman90.github.io/rsschool-cv/cv.md>ссылка на резюме</a> 
+<a href=https://github.com/yorkman90/rsschool-cv/blob/gh-pages/index.html>ссылка на резюме</a> 
